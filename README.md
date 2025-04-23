@@ -6,7 +6,7 @@
 📍 View the dashboard here: [WashingtonEV](/WashingtonEVanalysis.twbx/)
 
 ## Background  
-As the push for greener transportation gains momentum, understanding the EV landscape helps stakeholders—from policymakers to automakers—make informed decisions. This project aims to answer key questions around EV ownership patterns, top-performing brands, and geographic hotspots within Washington state.
+As the push for greener transportation gains momentum, understanding the EV landscape helps stakeholders from policymakers to automakers make informed decisions. This project aims to answer key questions around EV ownership patterns, top-performing brands, and geographic hotspots within Washington state.
 
 Data was sourced from Washington’s Department of Licensing EV dataset and visualized using Tableau to ensure an interactive, insightful experience.
 
