@@ -3,7 +3,7 @@
 ## Introduction  
 🔌 Curious about the electric vehicle (EV) landscape in Washington? This project visualizes the adoption of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) across the state, diving deep into the makes, models, regional distribution, and yearly trends. Powered by Tableau, this dashboard offers a comprehensive snapshot of Washington’s EV growth.
 
-📍 View the dashboard here: WashingtonEV
+📍 View the dashboard here: [WashingtonEV](/WashingtonEVanalysis.twbx/)
 
 ## Background  
 As the push for greener transportation gains momentum, understanding the EV landscape helps stakeholders—from policymakers to automakers—make informed decisions. This project aims to answer key questions around EV ownership patterns, top-performing brands, and geographic hotspots within Washington state.
