@@ -5,6 +5,8 @@
 
 📍 View the dashboard here: [WashingtonEV](/WashingtonEVanalysis.twbx/)
 
+![EV Analysis](Assets/EV_Analysis.png)
+
 ## Background  
 As the push for greener transportation gains momentum, understanding the EV landscape helps stakeholders from policymakers to automakers make informed decisions. This project aims to answer key questions around EV ownership patterns, top-performing brands, and geographic hotspots within Washington state.
 
@@ -34,18 +36,27 @@ The donut chart shows the split between:
 - **Plug-in Hybrid Electric Vehicles (PHEVs)**  
 BEVs make up the majority of EVs in the state, indicating a strong shift toward fully electric mobility.
 
+![EV & Hybrid](Assets/EV%20&%20Hybrid.png)
+![Vehicle Type Distribution](Assets/Vehicle%20Type%20Distribution.png)
+
 ### 🏭 EV Make & Model  
 - **Tesla** leads by a huge margin with over 100K vehicles.  
 - Other notable players include **Chevrolet**, **Nissan**, and **Ford**.
+
+![EV Make & Model](Assets/EV%20Make%20&%20Model.png)
 
 ### 🗺️ EV Ownership by County & Postcode  
 - **King County** tops the list with over 5,800 vehicles.  
 - Snohomish and Pierce follow, showing concentrated adoption in urban/suburban hubs.  
 - The heatmap reveals EV hotspots around Seattle and surrounding areas.
 
+![EV Ownership by County & Postcode](Assets/EV%20Ownership%20by%20County%20&%20Postcode.png)
+
 ### 📆 Vehicle Registration by Year  
 - Registrations have seen exponential growth post-2018.  
 - **2024** marks a peak with over 2,100 EVs registered so far, with **Battery EVs** significantly outpacing PHEVs.
+
+![Vehicle Registration by Year](Assets/Vehicle%20Registration%20by%20Year.png)
 
 ## What I Learned  
 This project helped sharpen my Tableau skills while gaining insights into real-world clean energy trends:
